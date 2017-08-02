@@ -45,11 +45,11 @@ We can clasify the http methods (the common ones) in two ways:
 Is a way to provide links to resources in the server response. The REST client doesn´t need any prior knowledge in order to interact with the server. In contrast with some SOA, there is no need of any fixed interface or contract. The server tells the necesary to the client through the responses
  
 ### Richardson Maturity Model
-How RESTfull is a WebService ? <br/>
+How RESTful is a WebService ? <br/>
 - Level 3 - HATEOAS
 - Level 2 - HTTP Methods
 - Level 1 - Resource URI
-- Level 0 - No RESTfull (SOAP WebService)
+- Level 0 - No RESTful (SOAP WebService)
  
  
    
