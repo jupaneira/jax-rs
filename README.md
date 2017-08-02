@@ -39,5 +39,9 @@ We can clasify the http methods (the common ones) in two ways:
  - 3XX - Redirection
  - 4XX - Client Error
  - 5XX - Server Error
+ 
+ #### HATEOAS
+ **H**ypermedia **A**s **T**he **E**ngine **O**f **A**pplication **S**tate <br/>
+ Is a way to provide links to resources in the server response. The REST client doesn´t need any prior knowledge in order to interact with the server. In contrast with some SOA, there is no need of any fixed interface or contract. The server tells the necesary to the client through the responses
    
   
