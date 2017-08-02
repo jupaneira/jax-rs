@@ -28,3 +28,16 @@ We can clasify the http methods (the common ones) in two ways:
   - DELETE
 - No repeatable
   - POST (that's the reason because it is used to create data)
+  
+ #### HTTP Message Structure
+ - Headers (metadata as the conten-type, message length, date, SATTUS-CODES!)
+ - Body
+
+ #### HTTP Status Codes
+ - 1XX - Informational
+ - 2XX - Success
+ - 3XX - Redirection
+ - 4XX - Client Error
+ - 5XX - Server Error
+   
+  
