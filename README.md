@@ -30,7 +30,7 @@ We can clasify the http methods (the common ones) in two ways:
   - POST (that's the reason because it is used to create data)
   
  #### 1.1 HTTP Message Structure
- - Headers (metadata as the conten-type, message length, date, SATTUS-CODES!)
+ - Headers (metadata as the conten-type, message length, date, STATUS-CODES!)
  - Body
 
  #### 1.2 HTTP Status Codes
